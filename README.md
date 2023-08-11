@@ -1,2 +1,2 @@
-# loger_bot_telegram
-the code for the bot in telegram will send information about messages that have been deleted or edited
+# Логи для бота в телеграме
+код для бота в telegram будет отправлять информацию о сообщениях, которые были удалены или отредактирокод
